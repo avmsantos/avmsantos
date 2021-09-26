@@ -2,7 +2,6 @@
 
 - 🔭 Procurando um estagio
 - 🌱 Estudando PHP e Designer UX
-- 🤔 Procuro ajuda com PHP
 - 📫 Contate-me: amandamelquiades01@gmail.com
 - 😄 ela/dela.
 <div align="center">
