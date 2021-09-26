@@ -1,6 +1,6 @@
 ### Olá, me chamo Amanda Victoria 😊
 
-- 🔭 Procurando um estagio
+- 📚 Cursando analise e desenvolvimento de sistema
 - 🌱 Estudando PHP e Designer UX
 - 📫 Contate-me: amandamelquiades01@gmail.com
 - 😄 ela/dela.
