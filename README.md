@@ -1,7 +1,7 @@
 ### Olá, me chamo Amanda Victoria 😊
 
 - 📚 Cursando analise e desenvolvimento de sistema
-- 🌱 Estudando PHP e Designer UX
+- 💻Estudando PHP e Designer UX
 - 📫 Contate-me: amandamelquiades01@gmail.com
 - 😄 ela/dela.
 <div align="center">
