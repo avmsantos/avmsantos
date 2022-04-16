@@ -1,7 +1,7 @@
 ### Olá, me chamo Amanda Victoria 😊
 
 - 📚 Cursando analise e desenvolvimento de sistema
-- 💻Estudando PHP, JavaScript e Mobile
+- 💻Estudando PHP e FLutter
 - 📫 Contate-me: amandamelquiades01@gmail.com
 - 😄 ela/dela.
 <div align="center">
