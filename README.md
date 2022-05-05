@@ -3,7 +3,7 @@
 - 📚 Cursando analise e desenvolvimento de sistema
 - 💻Estudando FLutter
 - 📫 Contate-me: amandamelquiades01@gmail.com
-- 😄 ela/dela.
+- 😄 Sou apaixonada por tecnologia e amo programação
 <div align="center">
   <a href="https://github.com/avmsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avmsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
